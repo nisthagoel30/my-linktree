@@ -2,6 +2,10 @@
   "name": "my-linktree",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "npm": "6.14.13",
+    "node": "14.17.0"
+  },
   "dependencies": {
     "@iconify/icons-simple-icons": "^1.1.45",
     "@iconify/react": "^3.0.1",
