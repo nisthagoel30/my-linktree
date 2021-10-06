@@ -1,0 +1,8 @@
+@import "~bootstrap/scss/bootstrap"; //importing bootstrap library
+body {
+  height: 100%;
+  margin: 0;
+  background-image: linear-gradient(to top, black, rgb(177, 175, 175));
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
